@@ -4,7 +4,7 @@ import os
 import time
 
 app = Flask(__name__)
-os.environ["REPLICATE_API_TOKEN"]="r8_2idkAutIh1jCAVVRIbEDgqt9zNUdbhG2cS1AF"
+os.environ["REPLICATE_API_TOKEN"]="r8_XDlV2X9LDzfPYDc450KL8yjGebGoCVE454xIl"
 
 r = ""
 first_time = 1
